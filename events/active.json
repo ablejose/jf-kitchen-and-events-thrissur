@@ -1,0 +1,44 @@
+{
+  "slug": "jf-kitchen-and-events-thrissur",
+  "name": "JF Kitchen And Events",
+  "shortName": "JF Kitchen And Events",
+  "descriptor": "Catering & Events",
+  "address": "St Antony's Road, north Bazar, Ollur P O, Nehru Nagar, Ollur, Thrissur, Keralam 680306",
+  "area": "Ollur",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680306",
+  "geo": {
+    "lat": 10.4873207,
+    "lng": 76.2340138
+  },
+  "mapsLink": "https://maps.google.com/?cid=9190790387470049349",
+  "phone": "+91 81297 78255",
+  "whatsapp": "918129778255",
+  "rating": 4.4,
+  "reviewCount": 39,
+  "reviews": [
+    {
+      "name": "Anand Rapheal",
+      "rating": 5,
+      "quote": "This caterer consistently provides exceptional, delicious, and hygienically prepared food, offers convenient door-to-door delivery, and expertly manages all event details. I have been a satisfied customer for many years."
+    },
+    {
+      "name": "ABIN JOSE",
+      "rating": 5,
+      "quote": "Delicious and authentic food with professional services, thank for your support to make this event more enjoyable and stress free."
+    },
+    {
+      "name": "Nitin Pradhan",
+      "rating": 4,
+      "quote": "Though the food is tasty but the price in swiggy is way to much in comparison to the restaurant rate. I order through swiggy around 2 items and paid the amount but when I checked the restaurant in Google i found out their original price which was half of the amount which I paid to swiggy."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://jf-kitchen-and-events-thrissur.vercel.app"
+}
